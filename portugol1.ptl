@@ -1,0 +1,10 @@
+algoritmo "soma"
+inicio
+inicio
+ escreva("Numero A? ")
+ leia(numeroA)
+ escreva("Numero B? ")
+ leia(numeroB)
+ escreva("Soma A + B = ", numeroA + numeroB)
+fim
+algoritmo

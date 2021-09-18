@@ -1,0 +1,17 @@
+programa
+{
+inteiro cont=0, numero, soma=0
+    funcao inicio()
+    {
+enquanto (cont<3)
+{
+cont++
+escreva ("Digite um número inteiro: ")
+leia (numero)
+soma = soma+numero
+limpa()
+}
+
+escreva ("\nA soma é: ", soma)
+    }
+}
